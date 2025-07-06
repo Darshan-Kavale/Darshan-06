@@ -26,4 +26,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: darshankavale@gmail.com/testforactions:latest
+        tags: darshankavale06/darshan-06:latest
